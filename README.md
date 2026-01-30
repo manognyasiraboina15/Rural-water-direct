@@ -35,13 +35,13 @@ Design Focus: Lightweight, accessible, and responsive
 🚀 Getting Started
 Prerequisites
 
-A modern web browser
+-A modern web browser
 
-No backend setup required (static frontend)
+-No backend setup required (static frontend)
 
-Running Locally
+-Running Locally
 
-Clone the repository:
+-Clone the repository:
 
 git clone https://github.com/your-username/rural-water-direct.git
 
@@ -67,15 +67,15 @@ rural-water-direct/
 
 📌 Future Improvements
 
-User authentication
+ -User authentication
 
-Provider dashboard
+ -Provider dashboard
 
-SMS or WhatsApp notifications
+-SMS or WhatsApp notifications
 
-Backend integration for real-time data
+-Backend integration for real-time data
 
-Offline support
+-Offline support
 
 🤝 Contributing
 
